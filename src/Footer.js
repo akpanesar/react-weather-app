@@ -8,6 +8,7 @@ export default function Footer() {
         href="https://www.instagram.com/amanvalpanesar/"
         target="_blank"
         title="instagram Profile"
+        rel="noreferrer"
       >
         Amanpreet Panesar
       </a>
@@ -16,11 +17,17 @@ export default function Footer() {
         href="https://github.com/akpanesar/react-weather-app"
         target="_blank"
         title="Github Profile"
+        rel="noreferrer"
       >
         Github
       </a>
       hosted on
-      <a href="https://www.netlify.com/" target="_blank" title="Netlify">
+      <a
+        href="https://www.netlify.com/"
+        target="_blank"
+        title="Netlify"
+        rel="noreferrer"
+      >
         Netlify
       </a>
     </p>
