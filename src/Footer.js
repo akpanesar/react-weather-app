@@ -13,7 +13,7 @@ export default function Footer() {
       </a>
       open-sourced on
       <a
-        href="https://github.com/akpanesar/Portfolio"
+        href="https://github.com/akpanesar/react-weather-app"
         target="_blank"
         title="Github Profile"
       >
